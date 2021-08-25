@@ -5,7 +5,7 @@
 
 ### ``I- Technologies:``
 
-![Technologies](https://user-images.githubusercontent.com/77494902/130813514-99ab57a6-a8c5-4bba-95ff-aae07ba771dd.png)
+![Technologies](https://user-images.githubusercontent.com/77494902/130828311-01c1fa00-4725-4f1f-b7df-503b6febc8f9.png)
 
 
 ### ``II- Application preview:``
