@@ -10,6 +10,6 @@
 
 ### ``II- Application preview:``
 
-![11](https://user-images.githubusercontent.com/77494902/130824986-cef34711-cb2b-47e4-83fc-91643ad3dded.gif)
-![2](https://user-images.githubusercontent.com/77494902/130822526-ef8f1338-dc1b-4177-8481-594f37ec640a.gif)
-![3](https://user-images.githubusercontent.com/77494902/130822690-2bbc5516-72c4-498a-be32-ba45473ea50e.gif)
+![11](https://user-images.githubusercontent.com/77494902/130826927-823d69f8-733c-473c-91d6-a007bdb49823.gif)
+![2 (2)](https://user-images.githubusercontent.com/77494902/130826955-b6f97b66-8ebd-456b-9cbd-1bcf03385819.gif)
+![3 (2)](https://user-images.githubusercontent.com/77494902/130826951-ca07e17c-fafe-4faa-aa7b-2b6e04680d70.gif)
